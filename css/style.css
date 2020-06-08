@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&family=Sofia&display=swap');
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+body {
+    background: url(../image/sunset.jpg) no-repeat fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.timer {
+    margin: 200px auto;
+    font-family: 'Sofia', cursive;
+    width: 100%;
+    text-align: center;
+    font-size: 4em;
+}
